@@ -46,11 +46,6 @@ Chịu trách nhiệm gửi mail qua Amazone SES:
 Name: Nguyen Chuyen - Chuyenns
 Email: chuyenns@eway.vn
 ```
-#Contributors
-```
-Name: Truong Thanh Tung - tungtt
-Email: tungtt@eway.vn
-```
 #Acknowledgments
 ```
 Java core
