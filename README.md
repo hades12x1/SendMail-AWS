@@ -20,7 +20,6 @@ Chịu trách nhiệm gửi mail qua Amazone SES:
             "subject" : "tesstttt", 
             "body" : "<html><head></head> <body> <h1>Hello chuyenns!</h1> </body> </html>",
             "attachments" : [
-                "http://g8.ap.dev.adflex.xyz/files/golden_retriever_retriever_dog_protruding_tongue_182253_1920x1080.jpg",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuqZCgY99HnUaPe1a4IhLxiSuX-yE-1AvFkA&usqp=CAU"
             ]
     }
