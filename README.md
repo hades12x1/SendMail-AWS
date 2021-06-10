@@ -1,4 +1,4 @@
-# Project Adflex-sent-mail
+# Project SendMail-AWS
 Project sử dụng Springboot(Java).
 # Purpose
 Chịu trách nhiệm gửi mail qua Amazone SES:
